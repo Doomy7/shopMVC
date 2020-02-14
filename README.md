@@ -1,2 +1,2 @@
 # shopMVC
-simple shopApp using MVC protocol with Java+mysql plugin
+simple shopApp using MVC implemented Java+mysql plugin
